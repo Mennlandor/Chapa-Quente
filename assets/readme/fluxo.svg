@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="174" viewBox="0 0 1040 174" role="img" aria-labelledby="title desc">
+  <title id="title">Fluxo de um pedido no Foodstock</title>
+  <desc id="desc">Cardápio, carrinho, checkout e painel administrativo.</desc>
+  <g fill="#1b1424" stroke="#70468b">
+    <rect x="1" y="13" width="231" height="148" rx="18"/>
+    <rect x="270" y="13" width="231" height="148" rx="18"/>
+    <rect x="539" y="13" width="231" height="148" rx="18"/>
+    <rect x="808" y="13" width="231" height="148" rx="18"/>
+  </g>
+  <g fill="none" stroke="#deaaef" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M240 87h22m-6-6 6 6-6 6m253-6h22m-6-6 6 6-6 6m253-6h22m-6-6 6 6-6 6"/>
+  </g>
+  <g fill="#392047" stroke="#734895">
+    <rect x="22" y="32" width="44" height="44" rx="12"/>
+    <rect x="291" y="32" width="44" height="44" rx="12"/>
+    <rect x="560" y="32" width="44" height="44" rx="12"/>
+    <rect x="829" y="32" width="44" height="44" rx="12"/>
+  </g>
+  <g fill="none" stroke="#ffda38" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M35 43h18v22H35zM39 49h10m-10 5h10m-10 5h6"/>
+    <path d="M302 44h4l3 13h12l3-9h-17m4 14h.01m9 0h.01" stroke-width="2.4"/>
+    <path d="M571 46h22v16h-22zM571 51h22m-18 6h4"/>
+    <path d="M840 44h22v20h-22zm5 15v-4m6 4v-7m6 7V49"/>
+  </g>
+  <g fill="#fff8f0" font-family="Arial, sans-serif" font-size="23" font-weight="700">
+    <text x="22" y="107">Cardápio</text>
+    <text x="291" y="107">Carrinho</text>
+    <text x="560" y="107">Checkout</text>
+    <text x="829" y="107">Painel</text>
+  </g>
+  <g fill="#d9c6e4" font-family="Arial, sans-serif" font-size="17">
+    <text x="22" y="135">Escolha o prato</text>
+    <text x="291" y="135">Revise os itens</text>
+    <text x="560" y="135">Confirme o pedido</text>
+    <text x="829" y="135">Acompanhe o preparo</text>
+  </g>
+</svg>

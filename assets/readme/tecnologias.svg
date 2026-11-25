@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="56" viewBox="0 0 700 56" role="img" aria-labelledby="title">
+  <title id="title">PHP, MariaDB ou MySQL, HTML, CSS, JavaScript e Chart.js</title>
+  <g fill="#1b1322" stroke="#694285">
+    <rect x="1" y="7" width="89" height="42" rx="12"/>
+    <rect x="102" y="7" width="184" height="42" rx="12"/>
+    <rect x="298" y="7" width="254" height="42" rx="12"/>
+    <rect x="564" y="7" width="135" height="42" rx="12"/>
+  </g>
+  <g fill="#ffda38">
+    <circle cx="19" cy="28" r="3.5"/>
+    <circle cx="121" cy="28" r="3.5"/>
+    <circle cx="317" cy="28" r="3.5"/>
+    <circle cx="583" cy="28" r="3.5"/>
+  </g>
+  <g fill="#f7effd" font-family="Arial, sans-serif" font-size="17" font-weight="700">
+    <text x="32" y="34">PHP</text>
+    <text x="134" y="34">MariaDB / MySQL</text>
+    <text x="330" y="34">HTML · CSS · JavaScript</text>
+    <text x="596" y="34">Chart.js</text>
+  </g>
+</svg>
