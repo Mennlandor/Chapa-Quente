@@ -1,7 +1,6 @@
 <div align="center">
   <img src="assets/readme/capa.svg" alt="Chapa Quente — capa ilustrada com um hambúrguer" width="960">
 
-  <p><strong>Da escolha do prato ao acompanhamento do pedido pela loja.</strong></p>
 
   <p>
     <a href="#recursos">Recursos</a> ·
