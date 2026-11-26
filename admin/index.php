@@ -150,6 +150,7 @@ $statuses = ['Preparando' => ['Em preparo', 'preparing'], 'Concluido' => ['Concl
                     <?php if (!empty($categories)): ?>
                         <button class="primary" id="add-product" type="button">+ Novo Prato</button>
                     <?php endif; ?>
+                    <!-- card -->
                 </div>
             </div>
             <?php if ($message): ?><p class="notice"><?= escape($message) ?></p><?php endif; ?>
@@ -188,6 +189,7 @@ $statuses = ['Preparando' => ['Em preparo', 'preparing'], 'Concluido' => ['Concl
                         </table>
                     </div>
                 </section>
+                <!-- visão geral -->
             <?php else: ?>
                 <?php if ($view === 'overview'): ?>
                     <section class="metrics">
@@ -231,6 +233,7 @@ $statuses = ['Preparando' => ['Em preparo', 'preparing'], 'Concluido' => ['Concl
                                 <?php endforeach; ?>
                             </ul>
                         </section>
+                      <!-- Pedidos -->
                     </div>
                 <?php endif; ?>
                 <section class="panel table-panel" id="orders">
@@ -274,6 +277,7 @@ $statuses = ['Preparando' => ['Em preparo', 'preparing'], 'Concluido' => ['Concl
                 </section>
             <?php endif; ?>
         </main>
+        <!-- f p -->
     </div>
     <?php if ($databaseReady && $view === 'menu'): ?>
         <?php require __DIR__ . '/category-form.html'; ?>
