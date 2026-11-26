@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/readme/capa.svg" alt="Foodstock · Chapa Quente — Cardápio digital e gestão de pedidos" width="960">
+  <img src="assets/readme/capa.svg" alt="Chapa Quente — capa ilustrada com um hambúrguer" width="960">
 
   <p><strong>Da escolha do prato ao acompanhamento do pedido pela loja.</strong></p>
 
@@ -14,7 +14,6 @@
 
 ## Visão geral
 
-O **Foodstock** é um protótipo de loja para a lanchonete **Chapa Quente**. O cliente navega pelo cardápio, monta o carrinho e faz o pedido. A loja acompanha os pedidos e cadastra pratos e categorias pelo painel administrativo.
 
 ![Fluxo do pedido: o cliente escolhe no cardápio, revisa o carrinho e confirma no checkout. A loja acompanha o pedido no painel.](assets/readme/fluxo.svg)
 
